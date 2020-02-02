@@ -3,10 +3,11 @@
     "type": "library",
     "description": "Simple container library.",
     "license": "MIT",
+    "minimum-stability": "dev-master",
     "authors": [
         {
             "name": "Eliel de Paula",
-            "email": "elieldepaula@gmail.com"
+            "email": "dev@elieldepaula.com.br"
         }
     ],
     "require": {
