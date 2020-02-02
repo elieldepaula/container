@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Simple container library.",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Eliel de Paula",
